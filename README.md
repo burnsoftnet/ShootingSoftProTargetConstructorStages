@@ -1,5 +1,5 @@
 ### iMarksmen Sport Stages Backup
-**Repo v1.0**
+**Repo v2022.05.24**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -18,6 +18,8 @@ This repo contains the custom back up stages for the iMarksmen Sports Simulator 
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages
 * 2021 IDPA Kentucky Classic Sponsored By Ruger
 * 2021 Area 5 Championship - 13 Stages
+* 2022 Palmetto State Armory USPSA Multigun Nationals - 7 Stages
+* 2022 USPSA Classic National Championship - 15 Stages
 
 ## PDF Stages and Matchbooks
 
@@ -72,5 +74,5 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### v1.0
+### v2022.05.24
 * Initial Release to public
