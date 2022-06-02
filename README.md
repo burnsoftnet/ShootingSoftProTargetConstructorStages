@@ -21,6 +21,8 @@ This repo contains the custom back up stages for the iMarksmen Sports Simulator 
 * 2021 Area 5 Championship - 13 Stages
 * 2022 Palmetto State Armory USPSA Multigun Nationals - 7 Stages
 * 2022 USPSA Classic National Championship - 15 Stages
+* 2022 Sig 2Gun PCC National Championship 
+* 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage)
 
 ## PDF Stages and Matchbooks
 
@@ -48,7 +50,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 2022_2Gun_Matchbook
 * 2022_MultiGun_Matchbook
 * RUGER_CLASSIC_Matchbook_2022-2
-* 
+* 2022 KY USPSA Section Championship
 
 ### USPSA Level I
 * All Stages
@@ -75,9 +77,13 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
+### v2022.xx.xx
+
+* Added - 2022 Sig 2Gun PCC National Championship Stages for IPSC Section
+
 ### v2022.06.02
 
-* ADDED - 2020 KY USPSA Section Championship Matchbook and Stages for IPSC Section
+* ADDED - 2022 KY USPSA Section Championship Matchbook and Stages for IPSC Section
 
 ### v2022.05.24
 * Initial Release to public
