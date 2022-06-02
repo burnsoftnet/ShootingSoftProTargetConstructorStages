@@ -1,5 +1,6 @@
 ### iMarksmen Sport Stages Backup
-**Repo v2022.05.24**
+
+**Repo v2022.06.02**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -73,6 +74,10 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 
 
 ## Change Log
+
+### v2022.06.02
+
+* ADDED - 2020 KY USPSA Section Championship Matchbook and Stages for IPSC Section
 
 ### v2022.05.24
 * Initial Release to public
