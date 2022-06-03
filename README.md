@@ -1,28 +1,28 @@
 ### iMarksmen Sport Stages Backup
 
-**Repo v2022.06.02**
+**Repo v2022.06.03**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
 ## Sport Stages
 
-* 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII
-* 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII
-* 2019 BITB X - 10 Stages of Battle in the Bluegrass X
-* 2020 Area 5 Championship - 13 Stages
-* Ky Sectional Championship 2020 - 12 stages
-* Local Range - Copy of the Backyard range setup
-* SteelChallenge - 7 Stages of attempt to make steel challenge courses
-* USPSA - 17 stages  - Misc USPSA Stages
-* IPSC - Copy of Stages provided by vender
-* 2021 KY USPSA Section Championship  - 10 Stages
-* 2021 Sig 2Gun PCC/National Championship - 11 Stages
-* 2021 IDPA Kentucky Classic Sponsored By Ruger
-* 2021 Area 5 Championship - 13 Stages
-* 2022 Palmetto State Armory USPSA Multigun Nationals - 7 Stages
-* 2022 USPSA Classic National Championship - 15 Stages
-* 2022 Sig 2Gun PCC National Championship 
-* 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage)
+* 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
+* 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
+* 2019 BITB X - 10 Stages of Battle in the Bluegrass X ( Stages\IPSC\2019 BITB X )
+* 2020 Area 5 Championship - 13 Stages ( Stages\IPSC\2020 Area 5 Championship )
+* Ky Sectional Championship 2020 - 12 stages ( Stages\IPSC\Ky Sectional Championship 2020 )
+* Local Range - Copy of the Backyard range setup ( Stages\IPSC\Local Range )
+* SteelChallenge - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\SteelChallenge )
+* USPSA - 27 stages  - Misc USPSA Stages ( Stages\IPSC\USPSA )
+* IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
+* 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
+* 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
+* 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger )
+* 2021 Area 5 Championship - 13 Stages ( Stages\IPSC\2021 Area 5 Championship )
+* 2022 Palmetto State Armory USPSA Multigun Nationals - 7 Stages ( Stages\IPSC\2022 Palmetto State Armory USPSA Multigun Nationals )
+* 2022 USPSA Classic National Championship - 15 Stages ( Stages\IPSC\2022 USPSA Classic National Championship )
+* 2022 Sig 2Gun PCC National Championship  ( Stages\IPSC\2022 Sig 2Gun PCCNational Championship )
+* 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage) ( Stages\IPSC\2022 KY USPSA Section Championship )
 
 ## PDF Stages and Matchbooks
 
@@ -80,6 +80,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 ### v2022.xx.xx
 
 * Added - 2022 Sig 2Gun PCC National Championship Stages for IPSC Section
+* REFACTOR - Updated folder structure.
 
 ### v2022.06.02
 
