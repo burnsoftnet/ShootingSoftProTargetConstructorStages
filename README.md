@@ -12,7 +12,7 @@ This repo contains the custom back up stages for the iMarksmen Sports Simulator 
 * 2020 Area 5 Championship - 13 Stages ( Stages\IPSC\2020 Area 5 Championship )
 * Ky Sectional Championship 2020 - 12 stages ( Stages\IPSC\Ky Sectional Championship 2020 )
 * Local Range - Copy of the Backyard range setup ( Stages\IPSC\Local Range )
-* SteelChallenge - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\SteelChallenge )
+* Steel Challenge - Outlaw - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\Steel Challenge - Outlaw )
 * USPSA - 27 stages  - Misc USPSA Stages ( Stages\IPSC\USPSA )
 * IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
 * 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
