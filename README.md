@@ -77,7 +77,12 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### v2022.60.06
+### v2022.06.xx
+
+* UPDATED - Changed SteelChallenge to Steel Challenge - Outlaw Since they do not match the standard steel matches.
+* 
+
+### v2022.06.06
 
 * Added - 2022 Sig 2Gun PCC National Championship Stages for IPSC Section
 * REFACTOR - Updated folder structure.
