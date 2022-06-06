@@ -1,6 +1,6 @@
 ### iMarksmen Sport Stages Backup
 
-**Repo v2022.06.03**
+**Repo v2022.06.06**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -77,10 +77,11 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### v2022.xx.xx
+### v2022.60.06
 
 * Added - 2022 Sig 2Gun PCC National Championship Stages for IPSC Section
 * REFACTOR - Updated folder structure.
+* UPDATED - 2022 Ky Section Championship Stage 5, swapped position 2 and 3
 
 ### v2022.06.02
 
