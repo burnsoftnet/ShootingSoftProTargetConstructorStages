@@ -122,6 +122,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * ADDED - Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
 * ADDED - 2020 IDPA National PM
 * ADDED - 2020 IDPA NC Postal Match
+* ADDED - Instructions in README on how to use, or at least a recommened way of doing it.
 
 ### v2022.06.06
 
