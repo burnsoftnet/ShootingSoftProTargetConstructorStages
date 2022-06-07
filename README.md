@@ -6,6 +6,8 @@ This repo contains the custom back up stages for the iMarksmen Sports Simulator 
 
 ## Sport Stages
 
+### IPSC Section
+
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
 * 2019 BITB X - 10 Stages of Battle in the Bluegrass X ( Stages\IPSC\2019 BITB X )
@@ -17,13 +19,18 @@ This repo contains the custom back up stages for the iMarksmen Sports Simulator 
 * IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
 * 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
-* 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger )
 * 2021 Area 5 Championship - 13 Stages ( Stages\IPSC\2021 Area 5 Championship )
 * 2022 Palmetto State Armory USPSA Multigun Nationals - 7 Stages ( Stages\IPSC\2022 Palmetto State Armory USPSA Multigun Nationals )
 * 2022 USPSA Classic National Championship - 15 Stages ( Stages\IPSC\2022 USPSA Classic National Championship )
 * 2022 Sig 2Gun PCC National Championship  ( Stages\IPSC\2022 Sig 2Gun PCCNational Championship )
 * 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage) ( Stages\IPSC\2022 KY USPSA Section Championship )
 * Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
+
+### IDPA Section
+
+* 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger ) - 10 Stages
+* 2020 IDPA National PM - 3 Stages
+* 2020 IDPA NC Postal Match - 6 Stages
 
 ## PDF Stages and Matchbooks
 
@@ -82,6 +89,8 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 * UPDATED - Changed SteelChallenge to Steel Challenge - Outlaw Since they do not match the standard steel matches.
 * ADDED - Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
+* ADDED - 2020 IDPA National PM
+* ADDED - 2020 IDPA NC Postal Match
 
 ### v2022.06.06
 
