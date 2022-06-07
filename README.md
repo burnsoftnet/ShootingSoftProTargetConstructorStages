@@ -4,6 +4,31 @@
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
+## How To Use
+
+Each of the Sections listed below corilates with the exercise sections offered in the iMarksman Sport software
+
+![](images/ExerciseMode.PNG)
+
+Since each section has difference target selection from the other, it is important to keep the stages with the section they relate to.
+For this example we will import stages in the IPSC Section.
+
+At the very bottom, click on "New Exercise"
+![](images/newExercise.PNG)
+At the new window, change the Folder to match the new match that you are going to import.  In this Example it will be the "2016 BITB VII Test" ( Test appended to 2016 BITB VII becuase I already have a folder called 2016 BITB VII).
+![](images/NewExerciseDefault.PNG)
+![](images/ChangedExercise.PNG)
+Click on the 3 dots to the left of the new folder and click on import
+![](images/NewSrctionImport.PNG)
+Navigate to the section that you want to import and select all the files in that folder, and click on the Open button
+![](images/selectfiles.PNG)
+Once the Files have been imported, you can delete the new blank exercise by clicking on the 3 dots to the left of the state and click on remove and click on yes to confirm.
+![](images/DeleteNewExercise.PNG)
+![](images/confirm.PNG)
+ 
+Now you have stages to play, Enjoy!
+
+
 ## Sport Stages
 
 ### IPSC Section
