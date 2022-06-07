@@ -1,10 +1,43 @@
 ### iMarksmen Sport Stages Backup
 
-**Repo v2022.06.06**
+**Repo v2022.06.07**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
-## Sport Stages
+## How To Use
+
+1.)  Each of the Sections listed below corilates with the exercise sections offered in the iMarksman Sport software
+
+![](images/ExerciseMode.PNG)
+
+Since each section has difference target selection from the other, it is important to keep the stages with the section they relate to.
+For this example we will import stages in the IPSC Section.
+
+2.) At the very bottom, click on "New Exercise"
+
+![](images/newExercise.PNG)
+
+3.)  At the new window, change the Folder to match the new match that you are going to import.  In this Example it will be the "2016 BITB VII Test" ( Test appended to 2016 BITB VII becuase I already have a folder called 2016 BITB VII).
+
+![](images/NewExerciseDefault.PNG)
+![](images/ChangedExercise.PNG)
+
+4.)  Click on the 3 dots to the left of the new folder and click on import
+![](images/NewSrctionImport.PNG)
+
+5.)  Navigate to the section that you want to import and select all the files in that folder, and click on the Open button
+![](images/selectfiles.PNG)
+
+6.)  Once the Files have been imported, you can delete the new blank exercise by clicking on the 3 dots to the left of the state and click on remove and click on yes to confirm.
+![](images/DeleteNewExercise.PNG)
+![](images/confirm.PNG)
+ 
+Now you have stages to play, Enjoy!
+
+
+## Sport Stages ( 178 Stages )
+
+### IPSC Section ( 159 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -12,17 +45,23 @@ This repo contains the custom back up stages for the iMarksmen Sports Simulator 
 * 2020 Area 5 Championship - 13 Stages ( Stages\IPSC\2020 Area 5 Championship )
 * Ky Sectional Championship 2020 - 12 stages ( Stages\IPSC\Ky Sectional Championship 2020 )
 * Local Range - Copy of the Backyard range setup ( Stages\IPSC\Local Range )
-* SteelChallenge - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\SteelChallenge )
+* Steel Challenge - Outlaw - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\Steel Challenge - Outlaw )
 * USPSA - 27 stages  - Misc USPSA Stages ( Stages\IPSC\USPSA )
 * IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
 * 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
-* 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger )
 * 2021 Area 5 Championship - 13 Stages ( Stages\IPSC\2021 Area 5 Championship )
 * 2022 Palmetto State Armory USPSA Multigun Nationals - 7 Stages ( Stages\IPSC\2022 Palmetto State Armory USPSA Multigun Nationals )
 * 2022 USPSA Classic National Championship - 15 Stages ( Stages\IPSC\2022 USPSA Classic National Championship )
 * 2022 Sig 2Gun PCC National Championship  ( Stages\IPSC\2022 Sig 2Gun PCCNational Championship )
 * 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage) ( Stages\IPSC\2022 KY USPSA Section Championship )
+* Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
+
+### IDPA Section ( 19 Stages )
+
+* 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger ) - 10 Stages
+* 2020 IDPA National PM - 3 Stages
+* 2020 IDPA NC Postal Match - 6 Stages
 
 ## PDF Stages and Matchbooks
 
@@ -77,7 +116,15 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### v2022.60.06
+### v2022.06.07
+
+* UPDATED - Changed SteelChallenge to Steel Challenge - Outlaw Since they do not match the standard steel matches.
+* ADDED - Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
+* ADDED - 2020 IDPA National PM
+* ADDED - 2020 IDPA NC Postal Match
+* ADDED - Instructions in README on how to use, or at least a recommened way of doing it.
+
+### v2022.06.06
 
 * Added - 2022 Sig 2Gun PCC National Championship Stages for IPSC Section
 * REFACTOR - Updated folder structure.
