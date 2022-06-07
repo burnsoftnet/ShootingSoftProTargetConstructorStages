@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages
+## Sport Stages ( 178 Stages )
 
-### IPSC Section
+### IPSC Section ( 159 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -57,7 +57,7 @@ Now you have stages to play, Enjoy!
 * 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage) ( Stages\IPSC\2022 KY USPSA Section Championship )
 * Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
 
-### IDPA Section
+### IDPA Section ( 19 Stages )
 
 * 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger ) - 10 Stages
 * 2020 IDPA National PM - 3 Stages
