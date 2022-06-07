@@ -13,11 +13,12 @@ This repo contains the custom back up stages for the iMarksmen Sports Simulator 
 Since each section has difference target selection from the other, it is important to keep the stages with the section they relate to.
 For this example we will import stages in the IPSC Section.
 
-2.)  
-At the very bottom, click on "New Exercise"
+2.) At the very bottom, click on "New Exercise"
+
 ![](images/newExercise.PNG)
 
 3.)  At the new window, change the Folder to match the new match that you are going to import.  In this Example it will be the "2016 BITB VII Test" ( Test appended to 2016 BITB VII becuase I already have a folder called 2016 BITB VII).
+
 ![](images/NewExerciseDefault.PNG)
 ![](images/ChangedExercise.PNG)
 
