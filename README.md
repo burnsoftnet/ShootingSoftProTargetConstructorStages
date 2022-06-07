@@ -116,7 +116,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### v2022.06.xx
+### v2022.06.07
 
 * UPDATED - Changed SteelChallenge to Steel Challenge - Outlaw Since they do not match the standard steel matches.
 * ADDED - Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
