@@ -23,6 +23,7 @@ This repo contains the custom back up stages for the iMarksmen Sports Simulator 
 * 2022 USPSA Classic National Championship - 15 Stages ( Stages\IPSC\2022 USPSA Classic National Championship )
 * 2022 Sig 2Gun PCC National Championship  ( Stages\IPSC\2022 Sig 2Gun PCCNational Championship )
 * 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage) ( Stages\IPSC\2022 KY USPSA Section Championship )
+* Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
 
 ## PDF Stages and Matchbooks
 
@@ -80,7 +81,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 ### v2022.06.xx
 
 * UPDATED - Changed SteelChallenge to Steel Challenge - Outlaw Since they do not match the standard steel matches.
-* 
+* ADDED - Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
 
 ### v2022.06.06
 
