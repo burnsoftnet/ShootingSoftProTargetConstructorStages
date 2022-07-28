@@ -1,6 +1,6 @@
 ### iMarksmen Sport Stages Backup
 
-**Repo v2022.06.07**
+**Repo v2022.XX.XX**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -46,7 +46,7 @@ Now you have stages to play, Enjoy!
 * Ky Sectional Championship 2020 - 12 stages ( Stages\IPSC\Ky Sectional Championship 2020 )
 * Local Range - Copy of the Backyard range setup ( Stages\IPSC\Local Range )
 * Steel Challenge - Outlaw - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\Steel Challenge - Outlaw )
-* USPSA - 27 stages  - Misc USPSA Stages ( Stages\IPSC\USPSA )
+* USPSA - 32 stages  - Misc USPSA Stages and Classifiers ( Stages\IPSC\USPSA )
 * IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
 * 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
@@ -115,6 +115,15 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 
 
 ## Change Log
+
+### v2022.xx.xx
+
+* ADDED - USPSA Classifier - [22-01] – Righty Tighty
+* ADDED - USPSA Classifier - [22-02] – Lefty Loosey
+* ADDED - USPSA Classifier - [22-03] – Double Stacked
+* ADDED - USPSA Classifier - [22-04] – Calm Before the Storm
+* ADDED - USPSA Classifier - [22-05] – Win Some Lose Some
+
 
 ### v2022.06.07
 
