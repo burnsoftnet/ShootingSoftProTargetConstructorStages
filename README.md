@@ -37,7 +37,7 @@ Now you have stages to play, Enjoy!
 
 ## Sport Stages ( 193 Stages )
 
-### IPSC Section ( 174 Stages )
+### IPSC Section ( 186 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -57,6 +57,7 @@ Now you have stages to play, Enjoy!
 * 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage) ( Stages\IPSC\2022 KY USPSA Section Championship )
 * Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
 * Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages ( Stages\IPSC\2022 Atomic Blast Tn Sec. Championship )
+* 2022 Carolina Reaper - 12 stages ( Stages\IPSC\2022 Carolina Reaper )
 
 ### IDPA Section ( 19 Stages )
 
@@ -125,6 +126,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * ADDED - USPSA Classifier - [22-04] – Calm Before the Storm
 * ADDED - USPSA Classifier - [22-05] – Win Some Lose Some
 * ADDED - Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages
+* ADDED - 2022 Carolina Reaper - 12 stages 
 
 
 ### v2022.06.07
