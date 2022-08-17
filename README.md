@@ -52,7 +52,7 @@ Now you have stages to play, Enjoy!
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
 * 2021 Area 5 Championship - 13 Stages ( Stages\IPSC\2021 Area 5 Championship )
 * 2022 Palmetto State Armory USPSA Multigun Nationals - 7 Stages ( Stages\IPSC\2022 Palmetto State Armory USPSA Multigun Nationals )
-* 2022 USPSA Classic National Championship - 15 Stages ( Stages\IPSC\2022 USPSA Classic National Championship )
+* 2022 USPSA Ruger Classic National Championship - 15 Stages ( Stages\IPSC\2022 USPSA Ruger Classic National Championship )
 * 2022 Sig 2Gun PCC National Championship  ( Stages\IPSC\2022 Sig 2Gun PCCNational Championship )
 * 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage) ( Stages\IPSC\2022 KY USPSA Section Championship )
 * Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
@@ -127,6 +127,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * ADDED - USPSA Classifier - [22-05] – Win Some Lose Some
 * ADDED - Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages
 * ADDED - 2022 Carolina Reaper - 12 stages 
+* ADDED - 2022 USPSA Ruger Classic National Championship - 15 Stages
 
 
 ### v2022.06.07
