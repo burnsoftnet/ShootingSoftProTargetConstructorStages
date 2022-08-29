@@ -68,7 +68,6 @@ Now you have stages to play, Enjoy!
 
 ## PDF Stages and Matchbooks
 
-
 PDF's are located under the PDF Folders as copy of the original stage design
 
 ### IDPA
