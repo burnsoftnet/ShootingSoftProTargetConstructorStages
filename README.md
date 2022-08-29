@@ -1,6 +1,6 @@
 ### iMarksmen Sport Stages Backup
 
-**Repo v2022.XX.XX**
+**Repo v2022.08.29**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
