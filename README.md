@@ -35,7 +35,7 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 193 Stages )
+## Sport Stages ( 203 Stages )
 
 ### IPSC Section ( 186 Stages )
 
@@ -59,11 +59,12 @@ Now you have stages to play, Enjoy!
 * Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages ( Stages\IPSC\2022 Atomic Blast Tn Sec. Championship )
 * 2022 Carolina Reaper - 12 stages ( Stages\IPSC\2022 Carolina Reaper )
 
-### IDPA Section ( 19 Stages )
+### IDPA Section ( 29 Stages )
 
 * 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger ) - 10 Stages
 * 2020 IDPA National PM - 3 Stages
 * 2020 IDPA NC Postal Match - 6 Stages
+* 2022 Nighthawk Custom Regional Championship - 10 Stages ( Stages\IDPA\2022 Nighthawk Custom Regional Championship )
 
 ## PDF Stages and Matchbooks
 
@@ -75,6 +76,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 2020-IDPA-Postal-Match-revised-stage-descriptions-5
 * 2020-Postal-Match-Matchbook-2
 * 2021 Kentucky Classic Matchbook
+* IDPA - The 2022 Nighthawk Custom Regional Championship
 
 ### USPSA Level II & III
 * BITB 2016 Match Book
@@ -118,7 +120,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### v2022.xx.xx
+### v2022.08.29
 
 * ADDED - USPSA Classifier - [22-01] – Righty Tighty
 * ADDED - USPSA Classifier - [22-02] – Lefty Loosey
@@ -128,6 +130,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * ADDED - Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages
 * ADDED - 2022 Carolina Reaper - 12 stages 
 * ADDED - 2022 USPSA Ruger Classic National Championship - 15 Stages
+* ADDED - 2022 Nighthawk Custom Regional Championship - 10 Stages
 
 
 ### v2022.06.07
