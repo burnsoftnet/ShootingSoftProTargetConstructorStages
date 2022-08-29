@@ -1,6 +1,6 @@
 ### iMarksmen Sport Stages Backup
 
-**Repo v2022.06.07**
+**Repo v2022.XX.XX**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 178 Stages )
+## Sport Stages ( 203 Stages )
 
-### IPSC Section ( 159 Stages )
+### IPSC Section ( 186 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -46,22 +46,25 @@ Now you have stages to play, Enjoy!
 * Ky Sectional Championship 2020 - 12 stages ( Stages\IPSC\Ky Sectional Championship 2020 )
 * Local Range - Copy of the Backyard range setup ( Stages\IPSC\Local Range )
 * Steel Challenge - Outlaw - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\Steel Challenge - Outlaw )
-* USPSA - 27 stages  - Misc USPSA Stages ( Stages\IPSC\USPSA )
+* USPSA - 32 stages  - Misc USPSA Stages and Classifiers ( Stages\IPSC\USPSA )
 * IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
 * 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
 * 2021 Area 5 Championship - 13 Stages ( Stages\IPSC\2021 Area 5 Championship )
 * 2022 Palmetto State Armory USPSA Multigun Nationals - 7 Stages ( Stages\IPSC\2022 Palmetto State Armory USPSA Multigun Nationals )
-* 2022 USPSA Classic National Championship - 15 Stages ( Stages\IPSC\2022 USPSA Classic National Championship )
+* 2022 USPSA Ruger Classic National Championship - 15 Stages ( Stages\IPSC\2022 USPSA Ruger Classic National Championship )
 * 2022 Sig 2Gun PCC National Championship  ( Stages\IPSC\2022 Sig 2Gun PCCNational Championship )
 * 2022 KY USPSA Section Championship - 11 stage (10 + chrono like stage) ( Stages\IPSC\2022 KY USPSA Section Championship )
 * Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
+* Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages ( Stages\IPSC\2022 Atomic Blast Tn Sec. Championship )
+* 2022 Carolina Reaper - 12 stages ( Stages\IPSC\2022 Carolina Reaper )
 
-### IDPA Section ( 19 Stages )
+### IDPA Section ( 29 Stages )
 
 * 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger ) - 10 Stages
 * 2020 IDPA National PM - 3 Stages
 * 2020 IDPA NC Postal Match - 6 Stages
+* 2022 Nighthawk Custom Regional Championship - 10 Stages ( Stages\IDPA\2022 Nighthawk Custom Regional Championship )
 
 ## PDF Stages and Matchbooks
 
@@ -73,6 +76,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 2020-IDPA-Postal-Match-revised-stage-descriptions-5
 * 2020-Postal-Match-Matchbook-2
 * 2021 Kentucky Classic Matchbook
+* IDPA - The 2022 Nighthawk Custom Regional Championship
 
 ### USPSA Level II & III
 * BITB 2016 Match Book
@@ -115,6 +119,19 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 
 
 ## Change Log
+
+### v2022.08.29
+
+* ADDED - USPSA Classifier - [22-01] – Righty Tighty
+* ADDED - USPSA Classifier - [22-02] – Lefty Loosey
+* ADDED - USPSA Classifier - [22-03] – Double Stacked
+* ADDED - USPSA Classifier - [22-04] – Calm Before the Storm
+* ADDED - USPSA Classifier - [22-05] – Win Some Lose Some
+* ADDED - Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages
+* ADDED - 2022 Carolina Reaper - 12 stages 
+* ADDED - 2022 USPSA Ruger Classic National Championship - 15 Stages
+* ADDED - 2022 Nighthawk Custom Regional Championship - 10 Stages
+
 
 ### v2022.06.07
 
