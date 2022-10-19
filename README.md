@@ -124,6 +124,8 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 * MOVED - Classifiers from the USPSA Section to USPSA Classifiers
 * UPDATED - Atmoic Blast Stage 7
+* ADDED - Added Classifier CM18-01 Of Course It Did
+* ADDED - Added Classifier CM18-02 What is With you People
 
 ### v2022.08.29
 
