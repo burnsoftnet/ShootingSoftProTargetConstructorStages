@@ -46,7 +46,8 @@ Now you have stages to play, Enjoy!
 * Ky Sectional Championship 2020 - 12 stages ( Stages\IPSC\Ky Sectional Championship 2020 )
 * Local Range - Copy of the Backyard range setup ( Stages\IPSC\Local Range )
 * Steel Challenge - Outlaw - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\Steel Challenge - Outlaw )
-* USPSA - 32 stages  - Misc USPSA Stages and Classifiers ( Stages\IPSC\USPSA )
+* USPSA - 12 stages  - Misc USPSA Stages ( Stages\IPSC\USPSA )
+* USPSA - 20 stages  - USPSA Classifiers ( Stages\IPSC\USPSA Classifiers )
 * IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
 * 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
@@ -118,6 +119,11 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 
 
 ## Change Log
+
+### vYYYY.MM.DD
+
+* MOVED - Classifiers from the USPSA Section to USPSA Classifiers
+
 
 ### v2022.08.29
 
