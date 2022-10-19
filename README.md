@@ -123,7 +123,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 ### vYYYY.MM.DD
 
 * MOVED - Classifiers from the USPSA Section to USPSA Classifiers
-
+* UPDATED - Atmoic Blast Stage 7
 
 ### v2022.08.29
 
