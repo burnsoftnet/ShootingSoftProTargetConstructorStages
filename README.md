@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 203 Stages )
+## Sport Stages ( 205 Stages )
 
-### IPSC Section ( 186 Stages )
+### IPSC Section ( 188 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -47,7 +47,7 @@ Now you have stages to play, Enjoy!
 * Local Range - Copy of the Backyard range setup ( Stages\IPSC\Local Range )
 * Steel Challenge - Outlaw - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\Steel Challenge - Outlaw )
 * USPSA - 12 stages  - Misc USPSA Stages ( Stages\IPSC\USPSA )
-* USPSA - 20 stages  - USPSA Classifiers ( Stages\IPSC\USPSA Classifiers )
+* USPSA - 22 stages  - USPSA Classifiers ( Stages\IPSC\USPSA Classifiers )
 * IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
 * 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
@@ -126,6 +126,8 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * UPDATED - Atmoic Blast Stage 7
 * ADDED - Added Classifier CM18-01 Of Course It Did
 * ADDED - Added Classifier CM18-02 What is With you People
+* ADDED - Classifier CM 22-06 Blues Don't Care
+* ADDED - Classifier CM 22-07 Cross Road Blues
 
 ### v2022.08.29
 
