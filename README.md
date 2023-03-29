@@ -1,6 +1,6 @@
 ### iMarksmen Sport Stages Backup
 
-**Repo v2022.08.29**
+**Repo v2023.03.30**
 
 This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 205 Stages )
+## Sport Stages ( 216 Stages )
 
-### IPSC Section ( 188 Stages )
+### IPSC Section ( 199 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -59,6 +59,7 @@ Now you have stages to play, Enjoy!
 * Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
 * Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages ( Stages\IPSC\2022 Atomic Blast Tn Sec. Championship )
 * 2022 Carolina Reaper - 12 stages ( Stages\IPSC\2022 Carolina Reaper )
+* 2023 2023 Blue Grass LOCAP Classic - 11 stages ( Stages\IPSC\2023 Blue Grass LOCAP Classic )
 
 ### IDPA Section ( 29 Stages )
 
@@ -94,6 +95,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 2022_MultiGun_Matchbook
 * RUGER_CLASSIC_Matchbook_2022-2
 * 2022 KY USPSA Section Championship
+* 2023 Blue Grass LOCAP Classic
 
 ### USPSA Level I
 * All Stages
@@ -120,7 +122,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### vYYYY.MM.DD
+### v2023.03.30
 
 * MOVED - Classifiers from the USPSA Section to USPSA Classifiers
 * UPDATED - Atmoic Blast Stage 7
@@ -128,6 +130,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * ADDED - Added Classifier CM18-02 What is With you People
 * ADDED - Classifier CM 22-06 Blues Don't Care
 * ADDED - Classifier CM 22-07 Cross Road Blues
+* ADDED - Stages for 2023 Blue Grass LOCAP Classic
 
 ### v2022.08.29
 
