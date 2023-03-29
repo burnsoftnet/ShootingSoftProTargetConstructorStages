@@ -1,12 +1,12 @@
-### iMarksmen Sport Stages Backup
+### Shooting-Soft Pro Target Constructor Backup
 
 **Repo v2023.03.30**
 
-This repo contains the custom back up stages for the iMarksmen Sports Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
+This repo contains the custom back up stages for the Shooting-Soft Pro Target Constructor Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
 ## How To Use
 
-1.)  Each of the Sections listed below corilates with the exercise sections offered in the iMarksman Sport software
+1.)  Each of the Sections listed below corilates with the exercise sections offered in the Shooting-Soft Pro Target Constructor software
 
 ![](images/ExerciseMode.PNG)
 
