@@ -1,12 +1,12 @@
 ### Shooting-Soft Pro Target Constructor Backup
 
-**Repo v2023.03.30**
+**Repo v2023.06.12**
 
 This repo contains the custom back up stages for the Shooting-Soft Pro Target Constructor Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
 ## How To Use
 
-1.)  Each of the Sections listed below corilates with the exercise sections offered in the Shooting-Soft Pro Target Constructor software
+1.)  Each of the Sections listed below correlates with the exercise sections offered in the Shooting-Soft Pro Target Constructor software
 
 ![](images/ExerciseMode.PNG)
 
@@ -17,7 +17,7 @@ For this example we will import stages in the IPSC Section.
 
 ![](images/newExercise.PNG)
 
-3.)  At the new window, change the Folder to match the new match that you are going to import.  In this Example it will be the "2016 BITB VII Test" ( Test appended to 2016 BITB VII becuase I already have a folder called 2016 BITB VII).
+3.)  At the new window, change the Folder to match the new match that you are going to import.  In this Example it will be the "2016 BITB VII Test" ( Test appended to 2016 BITB VII because I already have a folder called 2016 BITB VII).
 
 ![](images/NewExerciseDefault.PNG)
 ![](images/ChangedExercise.PNG)
@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 216 Stages )
+## Sport Stages ( 248 Stages )
 
-### IPSC Section ( 199 Stages )
+### IPSC Section ( 231 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -59,11 +59,13 @@ Now you have stages to play, Enjoy!
 * Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
 * Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages ( Stages\IPSC\2022 Atomic Blast Tn Sec. Championship )
 * 2022 Carolina Reaper - 12 stages ( Stages\IPSC\2022 Carolina Reaper )
-* 2023 2023 Blue Grass LOCAP Classic - 11 stages ( Stages\IPSC\2023 Blue Grass LOCAP Classic )
+* 2023 Blue Grass LOCAP Classic - 11 stages ( Stages\IPSC\2023 Blue Grass LOCAP Classic )
+* 2023 Kentucky State Championship - 11 stages ( Stages\IPSC\2023\2023 Kentucky State Championship )
+* 2023 USPSA Carry Optics Nationals - 21 Stages ( Stages\IPSC\2023\2023 USPSA Carry Optics Nationals )
 
 ### IDPA Section ( 29 Stages )
 
-* 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsered By Ruger ) - 10 Stages
+* 2021 IDPA Kentucky Classic Sponsored By Ruger ( Stages\IDPA\2021 IDPA Kentucky Classic Sponsored By Ruger ) - 10 Stages
 * 2020 IDPA National PM - 3 Stages
 * 2020 IDPA NC Postal Match - 6 Stages
 * 2022 Nighthawk Custom Regional Championship - 10 Stages ( Stages\IDPA\2022 Nighthawk Custom Regional Championship )
@@ -96,6 +98,8 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * RUGER_CLASSIC_Matchbook_2022-2
 * 2022 KY USPSA Section Championship
 * 2023 Blue Grass LOCAP Classic
+* 2023 Kentucky State Championship
+* 2023 USPSA Carry Optics Nationals
 
 ### USPSA Level I
 * All Stages
@@ -122,10 +126,14 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
+### v2023.06.12
+* ADDED - Stages for 2023 Kentucky State Championship
+* ADDED - Stages for 2023 USPSA Carry Optics Nationals
+
 ### v2023.03.30
 
 * MOVED - Classifiers from the USPSA Section to USPSA Classifiers
-* UPDATED - Atmoic Blast Stage 7
+* UPDATED - Atomic Blast Stage 7
 * ADDED - Added Classifier CM18-01 Of Course It Did
 * ADDED - Added Classifier CM18-02 What is With you People
 * ADDED - Classifier CM 22-06 Blues Don't Care
@@ -134,7 +142,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ### v2022.08.29
 
-* ADDED - USPSA Classifier - [22-01] – Righty Tighty
+* ADDED - USPSA Classifier - [22-01] – Righty Tightly
 * ADDED - USPSA Classifier - [22-02] – Lefty Loosey
 * ADDED - USPSA Classifier - [22-03] – Double Stacked
 * ADDED - USPSA Classifier - [22-04] – Calm Before the Storm
@@ -151,7 +159,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * ADDED - Steel Challenge - Classifiers - 8 Unique Stages, 9 Total, single string attempts for practice.
 * ADDED - 2020 IDPA National PM
 * ADDED - 2020 IDPA NC Postal Match
-* ADDED - Instructions in README on how to use, or at least a recommened way of doing it.
+* ADDED - Instructions in README on how to use, or at least a recommended way of doing it.
 
 ### v2022.06.06
 
