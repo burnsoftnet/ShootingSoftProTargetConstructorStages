@@ -1,6 +1,6 @@
 ### Shooting-Soft Pro Target Constructor Backup
 
-**Repo v2023.05.30**
+**Repo v2023.06.12**
 
 This repo contains the custom back up stages for the Shooting-Soft Pro Target Constructor Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 227 Stages )
+## Sport Stages ( 248 Stages )
 
-### IPSC Section ( 210 Stages )
+### IPSC Section ( 231 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -60,7 +60,8 @@ Now you have stages to play, Enjoy!
 * Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages ( Stages\IPSC\2022 Atomic Blast Tn Sec. Championship )
 * 2022 Carolina Reaper - 12 stages ( Stages\IPSC\2022 Carolina Reaper )
 * 2023 Blue Grass LOCAP Classic - 11 stages ( Stages\IPSC\2023 Blue Grass LOCAP Classic )
-* 2023 Kentucky State Championship - 11 stages ( Stages\IPSC\20232023 Kentucky State Championship )
+* 2023 Kentucky State Championship - 11 stages ( Stages\IPSC\2023\2023 Kentucky State Championship )
+* 2023 USPSA Carry Optics Nationals - 21 Stages ( Stages\IPSC\2023\2023 USPSA Carry Optics Nationals )
 
 ### IDPA Section ( 29 Stages )
 
@@ -98,6 +99,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 2022 KY USPSA Section Championship
 * 2023 Blue Grass LOCAP Classic
 * 2023 Kentucky State Championship
+* 2023 USPSA Carry Optics Nationals
 
 ### USPSA Level I
 * All Stages
@@ -124,8 +126,10 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### v2023.05.30
+### v2023.06.12
 * ADDED - Stages for 2023 Kentucky State Championship
+* ADDED - Stages for 2023 USPSA Carry Optics Nationals
+
 ### v2023.03.30
 
 * MOVED - Classifiers from the USPSA Section to USPSA Classifiers
