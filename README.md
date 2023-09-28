@@ -1,6 +1,6 @@
 ### Shooting-Soft Pro Target Constructor Backup
 
-**Repo v2023.08.31**
+**Repo v2023.09.28**
 
 This repo contains the custom back up stages for the Shooting-Soft Pro Target Constructor Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 258 Stages )
+## Sport Stages ( 278 Stages )
 
-### IPSC Section ( 231 Stages )
+### IPSC Section ( 251 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -62,6 +62,7 @@ Now you have stages to play, Enjoy!
 * 2023 Blue Grass LOCAP Classic - 11 stages ( Stages\IPSC\2023 Blue Grass LOCAP Classic )
 * 2023 Kentucky State Championship - 11 stages ( Stages\IPSC\2023\2023 Kentucky State Championship )
 * 2023 USPSA Carry Optics Nationals - 21 Stages ( Stages\IPSC\2023\2023 USPSA Carry Optics Nationals )
+* 2023 SIG Sauer Handgun Nationals - 20 Stages ( Stages\IPSC\2023\2023 SIG Sauer Handgun Nationals
 
 ### IDPA Section ( 39 Stages )
 
@@ -102,6 +103,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 2023 Blue Grass LOCAP Classic
 * 2023 Kentucky State Championship
 * 2023 USPSA Carry Optics Nationals
+* 2023 SIG Sauer Handgun Nationals
 
 ### USPSA Level I
 * All Stages
@@ -127,6 +129,10 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 
 
 ## Change Log
+
+### v2023.09.28
+
+* ADDED - 2023 SIG Sauer Handgun Nationals Stages
 
 ### v2023.08.31
 
