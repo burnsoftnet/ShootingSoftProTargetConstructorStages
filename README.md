@@ -130,6 +130,11 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
+### xxxx.xx.xx
+
+* Fixed USPSA Classifier for 22-05.1 and 22-05.2, This is a fixed time stage of 7 seconds, so set the string for max of 7 seconds.
+* Adjusted field of view for Classifier 20-01, I'm not a GM but Classifing as a GM on this Stage, so maybe adjusting the view a little further will be more realistic. 
+
 ### v2023.09.28
 
 * ADDED - 2023 SIG Sauer Handgun Nationals Stages
