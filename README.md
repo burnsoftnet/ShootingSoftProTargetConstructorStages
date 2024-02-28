@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 280 Stages )
+## Sport Stages ( 282 Stages )
 
-### IPSC Section ( 253 Stages )
+### IPSC Section ( 255 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -47,7 +47,7 @@ Now you have stages to play, Enjoy!
 * Local Range - Copy of the Backyard range setup ( Stages\IPSC\Local Range )
 * Steel Challenge - Outlaw - 7 Stages of attempt to make steel challenge courses ( Stages\IPSC\Steel Challenge - Outlaw )
 * USPSA - 12 stages  - Misc USPSA Stages ( Stages\IPSC\USPSA )
-* USPSA - 24 stages  - USPSA Classifiers ( Stages\IPSC\USPSA Classifiers )
+* USPSA - 26 stages  - USPSA Classifiers ( Stages\IPSC\USPSA Classifiers )
 * IPSC - Copy of Stages provided by vender ( Stages\IPSC\ )
 * 2021 KY USPSA Section Championship  - 10 Stages ( Stages\IPSC\2021 KY USPSA Section Championship )
 * 2021 Sig 2Gun PCC/National Championship - 11 Stages ( Stages\IPSC\2021 Sig 2Gun PCCNational Championship )
@@ -135,6 +135,9 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * Fixed USPSA Classifier for 22-05.1 and 22-05.2, This is a fixed time stage of 7 seconds, so set the string for max of 7 seconds.
 * Adjusted field of view for Classifier 20-01, I'm not a GM but Classifing as a GM on this Stage, so maybe adjusting the view a little further will be more realistic. 
 * Added USPSA Classifier 03-09 On the Move, Created Two Stages CM 03-09.1 for string 1 and CM 03-09.2 for string 2
+* Added USPSA Classifier 23-01 THS Short Course
+* Added USPSA Classifier 23-02 This could be the greatest night of our lives
+* Changed COF for Classifier 20-02 Deja Vu
 
 ### v2023.09.28
 
