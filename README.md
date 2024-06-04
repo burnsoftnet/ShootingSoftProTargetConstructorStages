@@ -1,6 +1,6 @@
 ### Shooting-Soft Pro Target Constructor Backup
 
-**Repo vxxxx.xx.xx**
+**Repo 2024.06.04**
 
 This repo contains the custom back up stages for the Shooting-Soft Pro Target Constructor Simulator as well as the official match books for major matches as well as some stages pulled from USPSA, IDPA and steel challenge.
 
@@ -35,9 +35,9 @@ For this example we will import stages in the IPSC Section.
 Now you have stages to play, Enjoy!
 
 
-## Sport Stages ( 282 Stages )
+## Sport Stages ( 293 Stages )
 
-### IPSC Section ( 255 Stages )
+### IPSC Section ( 266 Stages )
 
 * 2016 BITB VII - 10 Stages of Battle in the Bluegrass VII ( Stages\IPSC\2016 BITB VII )
 * 2017 BITB VIII - 10 Stages of Battle in the Bluegrass VIII ( Stages\IPSC\2017 BITB VIII )
@@ -60,9 +60,10 @@ Now you have stages to play, Enjoy!
 * Brass Monkey Bullets Atomic Blast - 2022 Tennessee Section Championship - 10 Stages ( Stages\IPSC\2022 Atomic Blast Tn Sec. Championship )
 * 2022 Carolina Reaper - 12 stages ( Stages\IPSC\2022 Carolina Reaper )
 * 2023 Blue Grass LOCAP Classic - 11 stages ( Stages\IPSC\2023 Blue Grass LOCAP Classic )
-* 2023 Kentucky State Championship - 11 stages ( Stages\IPSC\2023\2023 Kentucky State Championship )
-* 2023 USPSA Carry Optics Nationals - 21 Stages ( Stages\IPSC\2023\2023 USPSA Carry Optics Nationals )
-* 2023 SIG Sauer Handgun Nationals - 20 Stages ( Stages\IPSC\2023\2023 SIG Sauer Handgun Nationals
+* 2023 Kentucky State Championship - 11 stages ( Stages\IPSC\2023 Kentucky State Championship )
+* 2023 USPSA Carry Optics Nationals - 21 Stages ( Stages\IPSC\2023 USPSA Carry Optics Nationals )
+* 2023 SIG Sauer Handgun Nationals - 20 Stages ( Stages\IPSC\2023 SIG Sauer Handgun Nationals
+* 2024 Bluegrass USPSA Chamoionship - 11 Stages ( Stages\IPSC\2024 Bluegrass USPSA Chamoionship )
 
 ### IDPA Section ( 39 Stages )
 
@@ -104,6 +105,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * 2023 Kentucky State Championship
 * 2023 USPSA Carry Optics Nationals
 * 2023 SIG Sauer Handgun Nationals
+* 2024 Bluegrass USPSA Chamoionship
 
 ### USPSA Level I
 * All Stages
@@ -130,7 +132,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 
 ## Change Log
 
-### xxxx.xx.xx
+### v2024.06.04
 
 * Fixed USPSA Classifier for 22-05.1 and 22-05.2, This is a fixed time stage of 7 seconds, so set the string for max of 7 seconds.
 * Adjusted field of view for Classifier 20-01, I'm not a GM but Classifing as a GM on this Stage, so maybe adjusting the view a little further will be more realistic. 
@@ -138,6 +140,7 @@ PDF's are located under the PDF Folders as copy of the original stage design
 * Added USPSA Classifier 23-01 THS Short Course
 * Added USPSA Classifier 23-02 This could be the greatest night of our lives
 * Changed COF for Classifier 20-02 Deja Vu
+* Added 2024 Bluegrass USPSA Chamoionship Match Book and stages to IPSC Section
 
 ### v2023.09.28
 
